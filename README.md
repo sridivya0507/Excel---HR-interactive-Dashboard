@@ -28,6 +28,3 @@ This project features a comprehensive **HR dashboard built in Microsoft Excel** 
 * Slicers and Timelines
 * Data Validation and Conditional Formatting
 
----
-
-Let me know if you’d like to include a sample screenshot section or steps to update the data!
